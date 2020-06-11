@@ -52,7 +52,7 @@
 </template>
 <script>
 // 接收父组件传递来的数据
-
+ 
 export default {
   props:{     //声明接收父组件传递数据
     imgurl:{default:""},  //左侧图片默认值
