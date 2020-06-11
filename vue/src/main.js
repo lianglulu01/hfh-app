@@ -14,7 +14,7 @@ Vue.use(MintUI)
 // import "./font/iconfont.css"
 
 // 1.引入axios库
-import axios from "axios"
+import axios from "axios
 // 2.配置访问服务器基础路径
 axios.defaults.baseURL="http://127.0.0.1:4000/"
 // 3.配置保存session数据
